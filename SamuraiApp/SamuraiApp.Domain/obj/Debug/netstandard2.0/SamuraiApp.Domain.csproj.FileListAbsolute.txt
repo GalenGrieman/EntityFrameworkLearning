@@ -1,0 +1,9 @@
+D:\Games\Portfolio\VisualStudioProjects\EntityFramework\SamuraiApp\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.deps.json
+D:\Games\Portfolio\VisualStudioProjects\EntityFramework\SamuraiApp\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.dll
+D:\Games\Portfolio\VisualStudioProjects\EntityFramework\SamuraiApp\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.pdb
+D:\Games\Portfolio\VisualStudioProjects\EntityFramework\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csprojAssemblyReference.cache
+D:\Games\Portfolio\VisualStudioProjects\EntityFramework\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+D:\Games\Portfolio\VisualStudioProjects\EntityFramework\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfoInputs.cache
+D:\Games\Portfolio\VisualStudioProjects\EntityFramework\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfo.cs
+D:\Games\Portfolio\VisualStudioProjects\EntityFramework\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.dll
+D:\Games\Portfolio\VisualStudioProjects\EntityFramework\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.pdb
